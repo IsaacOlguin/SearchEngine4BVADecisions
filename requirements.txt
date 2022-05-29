@@ -1,0 +1,8 @@
+pip install -U pip setuptools wheel
+pip install -U spacy
+pip install pandas
+pip install matplotlib
+python -m spacy download en_core_web_sm
+pip install -U scikit-learn
+pip install tabulate
+pip install art
